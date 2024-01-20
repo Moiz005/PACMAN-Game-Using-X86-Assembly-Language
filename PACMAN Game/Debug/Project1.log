@@ -1,0 +1,5 @@
+﻿  Assembling Coal_Project.asm...
+Coal_Project.asm(17): error A2024: invalid operand size for instruction
+Coal_Project.asm(25): error A2005: symbol redefinition : displayWord
+Coal_Project.asm(31): fatal error A1010: unmatched block nesting : displayWord
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Coal_Project.obj" /I "D:\!Uni\Semester 3\COAL\LAB10\Irvine" /W3 /errorReport:prompt  /TaCoal_Project.asm" exited with code 1.
